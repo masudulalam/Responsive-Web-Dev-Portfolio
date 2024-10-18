@@ -367,6 +367,7 @@ form input[type="submit"]:hover{
 }
 /* Responsive for small devices */
 @media screen and (max-width: 575.98px) {
+    /* what-I-do-section */
     .card-container {
         flex-direction: column;
         align-items: center;
@@ -374,4 +375,13 @@ form input[type="submit"]:hover{
     .what-I-do-description {
         padding: 0 20px;
     }
+    /* summary-resume-section */
+    .summary-resume-container{
+        flex-direction: column;
+        padding: 0 20px;
+    }
+    .summary-content-w{
+        width: auto;
+    }
+    /*  */
 }
