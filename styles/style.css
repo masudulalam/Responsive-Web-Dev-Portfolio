@@ -383,5 +383,15 @@ form input[type="submit"]:hover{
     .summary-content-w{
         width: auto;
     }
-    /*  */
+    /* footer-section */
+    .lets-connect-section-container{
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 80px 20px;
+        gap: 80px;
+    }
+    .lets-connect-media{
+        width: 100%;
+    }
+
 }
