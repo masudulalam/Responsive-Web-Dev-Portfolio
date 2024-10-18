@@ -461,4 +461,8 @@ form input[type="submit"]:hover{
     .card-container{
         flex-wrap: wrap;
     }
+    .summary-resume-container{
+        flex-direction: column;
+        padding-left: 20px;
+    }
 }
