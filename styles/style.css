@@ -452,7 +452,13 @@ form input[type="submit"]:hover{
     .about-me-container{
         padding: 100px 20px;
     }
-    .about-me-container{
+    .info-container{
         flex-direction: column;
+    }
+    .what-I-do-description{
+        padding: 0px 20px;
+    }
+    .card-container{
+        flex-wrap: wrap;
     }
 }
