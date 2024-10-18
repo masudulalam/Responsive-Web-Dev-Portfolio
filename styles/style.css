@@ -393,5 +393,16 @@ form input[type="submit"]:hover{
     .lets-connect-media{
         width: 100%;
     }
-
+    /* about me section */
+    .about-me-section{
+        width: 100%;
+        height: 100%;
+    }
+    .about-me-container{
+        padding: 80px 20px;
+    }
+    .info-container{
+        flex-direction: column;
+        gap: 30px;
+    }
 }
